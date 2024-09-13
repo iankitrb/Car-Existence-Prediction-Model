@@ -1,4 +1,6 @@
 Car Existence Prediction Model
+
+
 This project is focused on building a machine learning model to predict whether a specific car exists in a dataset. The dataset contains information about cars, including their unique ID, a binary indicator of existence, and a comment column describing the closest matching model. The goal is to train a machine learning model (Random Forest Classifier) using the exists column as the target variable for classification based on the given features.
 
 Dataset
